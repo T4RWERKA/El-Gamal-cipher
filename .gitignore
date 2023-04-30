@@ -1,0 +1,51 @@
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.mov
+*.avi
+*.wmv
+*.flv
+*.swf
+*.mp3
+*.wav
+*.ogg
+*.aac
+*.wma
+*.flac
+
+*.doc
+*.docx
+*.pdf
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Lab checkpoint files
+.ipynb_checkpoints/
+
+# Jupyter Lab environment files
+.venv/
+.env
+
+# Python distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Other
+.DS_Store
+Thumbs.db
+*.txt
+*.rtf
+*.md
